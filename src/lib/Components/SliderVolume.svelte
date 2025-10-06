@@ -8,7 +8,6 @@ import { fly } from "svelte/transition";
   let text = $state("");
   let start = $state(false);
   const words = [
-    "test",
     "skibidi",
     "sigma",
     "this",
