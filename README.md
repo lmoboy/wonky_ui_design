@@ -136,15 +136,11 @@ We welcome contributions! Here's how you can help:
 - **Well-documented**: Include clear JSDoc comments
 - **Responsive**: Work across different screen sizes
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
 - Built with [Svelte](https://svelte.dev/) and [SvelteKit](https://svelte.dev/docs/kit/introduction)
 - Inspired by unconventional design thinking and accessibility needs
-- Thanks to the open source community for making this possible
 
 ---
 
